@@ -18,12 +18,30 @@
     <ClInclude Include="pch.h">
       <Filter>头文件</Filter>
     </ClInclude>
+    <ClInclude Include="Crawler.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Document.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="FileCrawler.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="pch.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
     <ClCompile Include="SearchEngine.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Crawler.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Document.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="FileCrawler.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>
