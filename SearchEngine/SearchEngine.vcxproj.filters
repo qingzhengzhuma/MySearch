@@ -27,6 +27,15 @@
     <ClInclude Include="FileCrawler.h">
       <Filter>头文件</Filter>
     </ClInclude>
+    <ClInclude Include="DocumentContent.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="MovieRecordContent.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="DocumentParser.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="pch.cpp">
@@ -42,6 +51,15 @@
       <Filter>源文件</Filter>
     </ClCompile>
     <ClCompile Include="FileCrawler.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="DocumentContent.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="MovieRecordContent.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="DocumentParser.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>

@@ -1,4 +1,5 @@
 #pragma once
+#include"DocumentContent.h"
 class Document
 {
 public:
@@ -7,5 +8,6 @@ public:
 private:
 	long id;
 	long length;
+	DocumentContent* content;
 };
 
